@@ -1,3 +1,12 @@
+Meaning = ∮_Interval Closed-loop Op  |  Beyond = Undefined
+
+意义 = ∫_区间 闭环操作  |  边界外 = 无定义
+# 意义极限哲学论 / On the Limits of Meaning
+
+> **核心逻辑：** 意义 = ∫_区间 闭环操作 | 边界外 = 无定义
+> **Core Logic:** Meaning = ∮_Interval Closed-loop Op | Beyond = Undefined
+
+--- 以下为论文正文 ---
 # On the Philosophy of the Limits of Meaning: From Cost Theory to Boundary-Marking Tools
 
 **Abstract**: This paper traces a trajectory of thought: from the construction of a "Cost Theory" (R ≡ C), through its abandonment, to the establishment of a "Theorem of the Limits of Meaning" — meaning is definable within the experiential interval, and its qualification for definition ceases outside it. This path relies on no external experiment but on internal logical examination. It demonstrates that any system of meaning depending on promises "beyond the interval" is ultimately unverifiable; operable meaning is valid only within a finite interval.
