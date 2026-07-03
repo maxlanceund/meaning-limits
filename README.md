@@ -1,4 +1,4 @@
-# meaning-limits
+# meaning-limits 意义极限论
 
 **意义极限哲学论 —— 关于意义边界的哲学框架**
 
