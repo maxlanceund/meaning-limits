@@ -14,3 +14,5 @@
 
 ### 状态
 论文逻辑层面已完全闭环，无已知硬伤。
+### [2026-07-03] - 新增英文版本
+- 新增 `README-EN.md` 完整英文翻译，锁定关键术语（Interval, Zeroing, Tri-Dimensional Weighting）。
